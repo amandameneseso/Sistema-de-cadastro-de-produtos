@@ -4,16 +4,12 @@ Este repositório contém a interface web do Sistema de cadastro de produtos. As
 
 **Acesse a versão publicada:** [https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos](https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos)
 
----
-
 ## Páginas Incluídas
 
 Este projeto é composto pelas seguintes páginas HTML:
 
 -   **`index.html` (Login):** Apresenta um formulário de autenticação simples, contendo campos para o preenchimento de e-mail e senha aleatórios.
 -   **`cadastro.html` (Cadastro de Produtos):** Exibe um formulário para o cadastro de produtos, incluindo campos como nome, categoria, preço, etc. Ao final desta página, uma tabela dinâmica lista os produtos que foram (simuladamente) cadastrados.
-
----
 
 ## Funcionalidades Principais
 
@@ -23,8 +19,6 @@ A interface web oferece as seguintes funcionalidades visuais e de interação:
 -   **Simulação de Login:** A página de login (`index.html`) simula um processo de autenticação. Embora não haja backend real, ao interagir com o formulário, o usuário é (simuladamente) redirecionado para a área de cadastro (`cadastro.html`).
 -   **Formulário de Cadastro:** O formulário de cadastro de produtos (`cadastro.html`) oferece campos claros para a entrada de dados.
 -   **Tabela Dinâmica de Produtos:** Na página de cadastro (`cadastro.html`), os produtos "cadastrados" são exibidos em uma tabela. Os dados exibidos nesta tabela são estáticos nesta versão da interface, mas visualizam como os dados seriam apresentados após o cadastro.
-
----
 
 ## Como Usar Localmente
 
@@ -42,8 +36,6 @@ Para visualizar e interagir com a interface web no seu ambiente local, siga esta
 
     * **Opção 2 (Live Server - VS Code):** Se você utiliza o Visual Studio Code, pode instalar a extensão "Live Server". Após instalar, abra a pasta do projeto no VS Code, clique com o botão direito em um dos arquivos `.html` e selecione "Open with Live Server". Esta opção oferece um servidor local com recarregamento automático ao salvar as alterações.
 
----
-
 ## Integração com Automação em Python
 
 Este sistema web foi projetado para ser utilizado em conjunto com um script de automação em Python que utiliza a biblioteca `pyautogui`. O script Python é capaz de preencher os formulários desta interface de forma automática, utilizando dados provenientes de um arquivo `.csv`.
@@ -51,8 +43,6 @@ Este sistema web foi projetado para ser utilizado em conjunto com um script de a
 **Repositório com o script de automação:**
 
 🔗 [https://github.com/amandameneseso/Sistema-de-cadastro-de-produtos-automacao](https://github.com/amandameneseso/Sistema-de-cadastro-de-produtos-automacao)
-
----
 
 ## 📄 Licença
 
