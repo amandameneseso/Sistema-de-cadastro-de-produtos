@@ -2,7 +2,7 @@
 
 Este repositório contém a interface web do Sistema de cadastro de produtos. As páginas foram desenvolvidas utilizando HTML, CSS e JavaScript, simulando um sistema de login e um painel de cadastro com a funcionalidade de cadastrar produtos à tabela.
 
-** Acesse a versão publicada:** [https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos](https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos)
+**Acesse a versão publicada:** [https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos](https://amandameneseso.github.io/Sistema-de-cadastro-de-produtos)
 
 ---
 
