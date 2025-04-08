@@ -9,7 +9,13 @@
       font-family: 'Nunito Sans', sans-serif;
       background: linear-gradient(135deg, #ff9a9e, #c0d0d1, #e7bcdb, #ddc1e0, #c0dbe7, #ff9a9e);
       background-attachment: fixed;
-      height: 100vh;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      min-height: 100vh;
     }
 
     .container {
@@ -19,6 +25,9 @@
       background: white;
       border-radius: 8px;
       box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+      margin-top: 100px;
+      flex-grow: 1;
+      width: 100%;
     }
 
     h2 {
@@ -70,4 +79,13 @@
 
     th {
       background-color: #f2f2f2;
+    }
+    footer {
+        bottom: 40px;
+        text-align: center;
+        color: #9e695c;
+        font-weight: 700;
+        margin-top: auto;
+        padding: 20px 0; /* Adicione um pouco de padding para espaçamento */
+        box-sizing: border-box; /* Garante que a padding não aumente a altura total */
     }
