@@ -42,7 +42,7 @@ Este sistema web foi projetado para ser utilizado em conjunto com um script de a
 
 **Repositório com o script de automação:**
 
-🔗 [https://github.com/amandameneseso/Sistema-de-cadastro-de-produtos-automacao](https://github.com/amandameneseso/Sistema-de-cadastro-de-produtos-automacao)
+🔗 https://github.com/amandameneseso/Automacao-para-o-Sistema-de-cadastro-de-produtos
 
 ## 📄 Licença
 
