@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Produtos - Interface Web
+# Sistema de Cadastro de Produtos
 
 Este repositório contém a interface web do Sistema de cadastro de produtos. As páginas foram desenvolvidas utilizando HTML, CSS e JavaScript, simulando um sistema de login e um painel de cadastro com a funcionalidade de cadastrar produtos à tabela.
 
