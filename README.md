@@ -44,6 +44,6 @@ Este sistema web foi projetado para ser utilizado em conjunto com um script de a
 
 🔗 https://github.com/amandameneseso/Automacao-para-o-Sistema-de-cadastro-de-produtos
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Você é livre para usar, copiar, modificar e compartilhar este código, desde que a licença seja mencionada.
