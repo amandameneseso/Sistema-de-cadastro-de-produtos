@@ -26,7 +26,7 @@ Para visualizar e interagir com a interface web no seu ambiente local, siga esta
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/amandameneseso/Sistema-de-cadastro-de-produtos.git](https://github.com/amandameneseso/Sistema-de-cadastro-de-produtos.git)
+    git clone https://github.com/amandameneseso/Sistema-de-cadastro-de-produtos.git
     cd Sistema-de-cadastro-de-produtos
     ```
 
